@@ -1,9 +1,10 @@
-<h1>Hi, I'm Mauro! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Mauro! 
+<h2>👨‍💻Cybersecurity Projects<h2>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+- Active Directory Home Lab
 
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ <h2>📄Cerification</h2>
+ <b>Cisco Networking academy</b>- (https://www.credly.com/badges/ae9c0aef-b049-4697-bd17-d53a37f6b3d7/public_url)
 
 <h2>📺 Popular YouTube Videos</h2>
 
